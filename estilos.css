@@ -6,6 +6,23 @@
     box-sizing: border-box;
 }
 
+/* Modifico el navbar  */
+
 .navbar {
     background-color: blue !important;
+    height: 70px;
 }
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.nav-link:hover {
+    border-bottom: 2px #fff solid;
+}
+
