@@ -10,7 +10,7 @@
 
 .navbar {
     background-color: blue !important;
-    height: 70px;
+    /* height: 70px; */
 }
 
 .nav-link {
@@ -28,4 +28,97 @@
 
 .carousel {
     margin-top: 1em;
+}
+
+/* Fin del navbar */
+
+/* Modifico el main */
+
+main {
+    height: 1200px;
+}
+
+
+/* Modifico el footer */
+
+/* Footer */
+
+
+.footer-izq {
+    color: #fff;
+    margin-left: 5%;
+}
+
+.footer-izq h1 {
+    font-size: 2em;
+}
+
+.footer-izq p {
+    font-size: 1em;
+}
+
+.nav-footer ul {
+    display: flex;
+    list-style: none;
+    
+}
+
+.nav-footer a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    margin: 0 5px;
+    font-style: italic;
+}
+.social i{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    margin-left: 10%;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns:repeat(2, 1fr);
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100%;
+}
+
+.grid-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+/* Fin del footer */
+
+/* Responsive */
+
+@media only screen and (max-width: 480px) {
+    
+
+    .nav-footer a {
+        font-size: 10px;
+    }
+      
+    footer {
+        height: 100%;
+    }
+
+    .nav-footer ul{
+        flex-direction: column;
+    }
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 780px) {
+
+    footer {
+        height: 100%;
+    }
+
+    .nav-footer ul{
+        flex-direction: column;
+    }
 }
