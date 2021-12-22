@@ -30,20 +30,17 @@
     margin-top: 1em;
 }
 
+.row{
+    margin-top: 1em;
+}
+
 /* Fin del navbar */
 
 /* Modifico el main */
 
 main {
-    height: 2000px;
+    height: 100em;
 }
-
-.foto1 {
-
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 
 /* Modifico el footer */
 
