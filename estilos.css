@@ -39,10 +39,27 @@
 /* Tamaño Main general */
 
 main {
-    height: 100em;
+    height: 130em;
 }
 
-/* Main pág Nosotros */
+/* Main Index */
+
+.prueba {
+    margin-top: 5em;
+}
+
+.partners {
+    margin-top: 15em;
+}
+
+.partnersIconos {
+
+    margin-top: 5em;
+}
+
+/* Fin main Index */
+
+/* Main Nosotros */
 
 /* Inicio seccion 1 main Nosotros */
 
@@ -104,8 +121,16 @@ main {
 
 /* Fin seccion 2 main Nosotros */
 
+/* Inicio seccion 3 main Nosotros */
 
+.nuestroEquipo {
+    color: #1E70B7;
+    margin: 1em 0;
+}
 
+/* Fin seccion 3 main Nosotros */
+
+/* Fin main Nosotros */
 
 
 /* Footer */
