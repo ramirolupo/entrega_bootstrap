@@ -9,7 +9,7 @@
 /* Modifico el navbar  */
 
 .navbar {
-    background-color: blue !important;
+    background-color: #1E70B7 !important;
     /* height: 70px; */
 }
 
@@ -65,7 +65,28 @@ main {
     font-weight: bold !important;
 }
 
+.ADN {
+    background-color: #1E70B7 !important;
+    color: white !important;
+    padding: 10px;
+    margin-top: 50px;
+}
 
+.tituloAdn {    
+    color: white !important
+}
+
+.icono1 { 
+    width: 43%;
+}
+
+.icono3 { 
+    width: 56%;
+}
+
+.icono4 { 
+    width: 47%;
+}
 
 
 /* Footer */
