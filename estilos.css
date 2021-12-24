@@ -36,20 +36,41 @@
 
 /* Fin del navbar */
 
-/* Modifico el main */
+/* Tamaño Main general */
 
 main {
     height: 100em;
 }
 
+/* Main pág Nosotros */
+
 .nosotrosText {
     bottom: 0px !important;
 }
 
-/* Modifico el footer */
+.title {
+    color: #1E70B7 !important;
+}
+
+.empresas {
+    margin-left: 300px;
+}
+
+.description {
+    color: #909193 !important;
+}
+
+.subtitle {
+
+    font-weight: bold !important;
+}
+
+
+
 
 /* Footer */
 
+/* Modifico el footer */
 
 .footer-izq {
     color: #fff;
