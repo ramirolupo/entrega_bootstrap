@@ -42,6 +42,10 @@ main {
     height: 100em;
 }
 
+.nosotrosText {
+    bottom: 0px !important;
+}
+
 /* Modifico el footer */
 
 /* Footer */
