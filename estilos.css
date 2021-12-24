@@ -44,6 +44,8 @@ main {
 
 /* Main pág Nosotros */
 
+/* Inicio seccion 1 main Nosotros */
+
 .nosotrosText {
     bottom: 0px !important;
 }
@@ -65,6 +67,10 @@ main {
     font-weight: bold !important;
 }
 
+/* Fin seccion 1 main Nosotros */
+
+/* Inicio seccion 2 main Nosotros */
+
 .ADN {
     background-color: #1E70B7 !important;
     color: white !important;
@@ -81,12 +87,25 @@ main {
 }
 
 .icono3 { 
-    width: 56%;
+    width: 59%;
 }
 
 .icono4 { 
     width: 47%;
 }
+
+.textoADN h4{
+    font-weight: bold;
+}
+
+.textoADN h5{
+    font-weight: bold;
+}
+
+/* Fin seccion 2 main Nosotros */
+
+
+
 
 
 /* Footer */
