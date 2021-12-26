@@ -36,10 +36,14 @@
 
 /* Fin del navbar */
 
-/* Tamaño Main general */
+/* Tamaños Mains */
 
-main {
+.mainNosotros {
     height: 130em;
+}
+
+.mainContacto {
+    height: 40em;
 }
 
 /* Main Index */
@@ -49,7 +53,7 @@ main {
 }
 
 .partners {
-    margin-top: 15em;
+    margin: 5em 0;
 }
 
 .partnersIconos {
@@ -131,6 +135,14 @@ main {
 /* Fin seccion 3 main Nosotros */
 
 /* Fin main Nosotros */
+
+/* Inicio main Contacto */
+
+.contacto {
+    margin-top: 10em;
+}
+
+/* Fin main Contacto */
 
 
 /* Footer */
